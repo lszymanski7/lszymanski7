@@ -10,15 +10,10 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   <summary><b>💼 My Projects</b></summary>
   <br/>
   
-  <a href="https://github.com/lszymanski7/calculator-app"><b>Calculator App</b></a>
-  - Description: <i>An application that allows to perform mathematical calculations.</i>
-  - Technologies: <i>JavaScript, HTML, CSS</i>
-  - Version: <i>1.0</i>
-  
-  <a href="https://github.com/lszymanski7/todo-app"><b>Todo App</b></a>
-  - Description: <i>An application that allows to manage to-do list.</i>
-  - Technologies: <i>JavaScript, HTML, CSS</i>
-  - Version: <i>1.0</i>
+  <a href="https://github.com/lszymanski7/boilerplate-js"><b>Boilerplate JavaScript</b></a>
+  - Description: <i>Boilerplate for creating projects in JavaScript. It contains the basic configuration of webpack and babel.</i>
+  - Technologies: <i>JavaScript, HTML, SCSS, Babel, Webpack, Npm</i>
+  - Version: <i>1.0.0</i>
 </details>
 
 <details>
@@ -32,10 +27,12 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Node.js,
   - HTML,
   - CSS,
-  - Python,
+  - SCSS,
+  - JSX,
+  - Babel,
   - Webpack,
-  - Bootstrap,
   - Docker,
+  - Npm,
   - Git.
 </details>
 
