@@ -19,6 +19,11 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Description: <i>Boilerplate for creating JavaScript projects based on the React library. Includes basic Webpack and Babel configuration. It also allows to use Redux and React Router.</i>
   - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
   - Version: <i>1.0.0</i>
+
+  <a href="https://github.com/lszymanski7/currency-exchange-app"><b>Currency Exchange App</b></a>
+  - Description: <i>An application that allows you to check the current exchange rates of the most popular currencies, such as USD, EUR, GBP and CHF. It also has a built-in currency converter.</i>
+  - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
+  - Version: <i>1.0.0</i>
 </details>
 
 <details>
