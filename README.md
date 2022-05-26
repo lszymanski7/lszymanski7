@@ -16,7 +16,7 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Version: <i>1.0.0</i>
 
   <a href="https://github.com/lszymanski7/boilerplate-react"><b>Boilerplate React</b></a>
-  - Description: <i>Boilerplate for creating JavaScript projects based on React framework. Includes basic Webpack and Babel configuration. It also allows to use Redux and React Router.</i>
+  - Description: <i>Boilerplate for creating JavaScript projects based on the React library. Includes basic Webpack and Babel configuration. It also allows to use Redux and React Router.</i>
   - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
   - Version: <i>1.0.0</i>
 </details>
