@@ -24,6 +24,11 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Description: <i>An application that allows you to check the current exchange rates of the most popular currencies, such as USD, EUR, GBP and CHF. It also has a built-in currency converter.</i>
   - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
   - Version: <i>1.0.0</i>
+
+  <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity App</b></a>
+  - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat. One click will help you make that tough choice!</i>
+  - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
+  - Version: <i>1.0.0</i>
 </details>
 
 <details>
