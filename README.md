@@ -26,7 +26,7 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Version: <i>1.0.0</i>
 
   <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity App</b></a>
-  - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat. One click will help you make that tough choice!</i>
+  - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat. One click will help you make that tough decision!</i>
   - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
   - Version: <i>1.0.0</i>
 </details>
