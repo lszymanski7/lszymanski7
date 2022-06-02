@@ -4,7 +4,7 @@ I became fascinated with programming a few years ago. Since then, I have been tr
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
-<!-- <p align="center">• 🌍 • 🏋️‍ • 💻 • 🚀 • 🎮 • 🎵 •</p> -->
+<br/>
 
 <details>
   <summary><b>💼 My Projects</b></summary>
@@ -31,26 +31,40 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Version: <i>1.0.0</i>
 </details>
 
+<br/>
+
 <details>
   <summary><b>🛠️ Languages and Tools</b></summary>
   <br/>
-  
+
   In my projects, I mostly use the following programming languages and tools:
   - JavaScript,
   - React,
   - Redux,
-  - Node.js,
   - HTML,
   - CSS,
   - SCSS,
   - JSX,
+  - SQL,
   - React Router,
+  - React Hooks,
   - Babel,
   - Webpack,
-  - Docker,
+  - ES6,
+  - Enzyme,
+  - Jest,
+  - Git,
   - Npm,
-  - Git.
+  - Firebase,
+  - Microsoft Visual Studio Code.
+
+  Currently I am learning:
+  - TypeScript,
+  - Node.js,
+  - GraphQL.
 </details>
+
+<br/>
 
 <details>
   <summary><b>📊 Statistics</b></summary>
@@ -61,12 +75,16 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
 </details>
 
+<br/>
+
 <details>
   <summary><b>🏆 Achievements</b></summary>
   <br/>
   
   <a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a>
 </details>
+
+<br/>
 
 ---
 
