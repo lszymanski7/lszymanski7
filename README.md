@@ -84,7 +84,7 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   <a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a>
 </details>
 
-<br/>
+---
 
 <p align="center">
   <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-f58025?style=flat&logo=stackoverflow&logoColor=white"></a>
