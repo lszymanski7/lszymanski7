@@ -31,8 +31,6 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Version: <i>1.0.0</i>
 </details>
 
-<br/>
-
 <details>
   <summary><b>🛠️ Languages and Tools</b></summary>
   <br/>
@@ -64,8 +62,6 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - GraphQL.
 </details>
 
-<br/>
-
 <details>
   <summary><b>📊 Statistics</b></summary>
   <br/>
@@ -74,8 +70,6 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   <br/>
   <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
 </details>
-
-<br/>
 
 <details>
   <summary><b>🏆 Achievements</b></summary>
