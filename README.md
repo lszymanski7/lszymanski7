@@ -86,8 +86,6 @@ Interests are an important part of my life. In my spare time, I like traveling, 
 
 <br/>
 
----
-
 <p align="center">
   <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-f58025?style=flat&logo=stackoverflow&logoColor=white"></a>
   <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab"></a>
