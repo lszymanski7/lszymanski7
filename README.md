@@ -59,7 +59,8 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   Currently I am learning:
   - TypeScript,
   - Node.js,
-  - GraphQL.
+  - GraphQL,
+  - Testing Library.
 </details>
 
 <details>
