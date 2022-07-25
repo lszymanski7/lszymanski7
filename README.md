@@ -1,4 +1,4 @@
-### Hello GitHub!
+## Hello GitHub!
 
 I became fascinated with programming a few years ago. Since then, I have been trying to constantly develop in this field. I enjoy working with the JavaScript programming language, combined with the React and Redux libraries. However, this does not mean that I am limited to these technologies only. My intellectual curiosity makes me love learning something new and look for solutions to any problems.
 
