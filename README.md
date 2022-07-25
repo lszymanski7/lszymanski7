@@ -8,31 +8,27 @@ Interests are an important part of my life. In my spare time, I like traveling, 
 
 In my projects, I mostly use the following programming languages and tools:
 
-<img src="https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=f0db4f" alt="JavaScript"></a>
-<img src="https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61dbfb" alt="React"></a>
-<img src="https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764abc" alt="Redux"></a>
-<img src="https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=f06529" alt="HTML"></a>
-<img src="https://img.shields.io/badge/CSS-424242?style=flat&logo=css3&logoColor=2965f1" alt="CSS"></a>
-<img src="https://img.shields.io/badge/SCSS-424242?style=flat&logo=scss3&logoColor=cd6799" alt="SCSS"></a>
-<img src="https://img.shields.io/badge/JSX-424242?style=flat&logo=jsx&logoColor=cd6799" alt="JSX"></a>
-<img src="https://img.shields.io/badge/SQL-424242?style=flat&logo=sql&logoColor=cd6799" alt="SQL"></a>
-<img src="https://img.shields.io/badge/React%20Router-424242?style=flat&logo=react%20router3&logoColor=cd6799" alt="React Router"></a>
-<img src="https://img.shields.io/badge/React%20Hooks-424242?style=flat&logo=react%20hooks&logoColor=cd6799" alt="React Hooks"></a>
-<img src="https://img.shields.io/badge/Babel-424242?style=flat&logo=babel&logoColor=f9dc3e" alt="Babel"></a>
-<img src="https://img.shields.io/badge/Webpack-424242?style=flat&logo=webpack&logoColor=8dd6f9" alt="Webpack"></a>
-<img src="https://img.shields.io/badge/ES6-424242?style=flat&logo=es6&logoColor=cd6799" alt="ES6"></a>
-<img src="https://img.shields.io/badge/Jest-424242?style=flat&logo=jest&logoColor=99424f" alt="Jest"></a>
-<img src="https://img.shields.io/badge/Git-424242?style=flat&logo=git&logoColor=f1502f" alt="Git"></a>
-<img src="https://img.shields.io/badge/Npm-424242?style=flat&logo=npm&logoColor=cc3534" alt="Npm"></a>
-<img src="https://img.shields.io/badge/Firebase-424242?style=flat&logo=firebase&logoColor=ffa000" alt="Firebase"></a>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-424242?style=flat&logo=visual%20studio%20code&logoColor=0078d7" alt="Visual Studio Code"></a>
+<img src="https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
+<img src="https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61DAFB" alt="React"></a>
+<img src="https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764ABC" alt="Redux"></a>
+<img src="https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=E34F26" alt="HTML"></a>
+<img src="https://img.shields.io/badge/CSS-424242?style=flat&logo=css3&logoColor=1572B6" alt="CSS"></a>
+<img src="https://img.shields.io/badge/SASS-424242?style=flat&logo=SASS&logoColor=CC6699" alt="SASS"></a>
+<img src="https://img.shields.io/badge/React%20Router-424242?logo=react-router&logoColor=CA4245" alt="React Router"></a>
+<img src="https://img.shields.io/badge/Babel-424242?style=flat&logo=babel&logoColor=F9DC3E" alt="Babel"></a>
+<img src="https://img.shields.io/badge/Webpack-424242?style=flat&logo=webpack&logoColor=8DD6F9" alt="Webpack"></a>
+<img src="https://img.shields.io/badge/Jest-424242?style=flat&logo=jest&logoColor=C21325" alt="Jest"></a>
+<img src="https://img.shields.io/badge/Git-424242?style=flat&logo=git&logoColor=F05032" alt="Git"></a>
+<img src="https://img.shields.io/badge/Npm-424242?style=flat&logo=npm&logoColor=CB3837" alt="Npm"></a>
+<img src="https://img.shields.io/badge/Firebase-424242?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase"></a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-424242?style=flat&logo=visual%20studio%20code&logoColor=007ACC" alt="Visual Studio Code"></a>
 
 Currently I am learning:
 
-<img src="https://img.shields.io/badge/TypeScript-424242?style=flat&logo=typescript&logoColor=007acc" alt="TypeScript"></a>
-<img src="https://img.shields.io/badge/Node.js-424242?style=flat&logo=node.js&logoColor=3c873a" alt="Node.js"></a>
-<img src="https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=e535ab" alt="GraphQL"></a>
-<img src="https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=f5403f" alt="Testing Library"></a>
+<img src="https://img.shields.io/badge/TypeScript-424242?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
+<img src="https://img.shields.io/badge/Node.js-424242?style=flat&logo=node.js&logoColor=339933" alt="Node.js"></a>
+<img src="https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=E10098" alt="GraphQL"></a>
+<img src="https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=E33332" alt="Testing Library"></a>
 
 <br/>
 
