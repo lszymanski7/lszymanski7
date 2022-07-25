@@ -4,6 +4,41 @@ I became fascinated with programming a few years ago. Since then, I have been tr
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
+## 🛠️ Languages and Tools
+
+In my projects, I mostly use the following programming languages and tools:
+
+<img src="https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=f0db4f" alt="JavaScript"></a>
+<img src="https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61dbfb" alt="React"></a>
+<img src="  https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764abc" alt="Redux"></a>
+<img src="https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=f06529" alt="HTML"></a>
+
+  - JavaScript,
+  - React,
+  - Redux,
+  - HTML, 
+  - CSS,
+  - SCSS,
+  - JSX,
+  - SQL,
+  - React Router,
+  - React Hooks,
+  - Babel,
+  - Webpack,
+  - ES6,
+  - Jest,
+  - Enzyme,
+  - Git,
+  - Npm,
+  - Firebase,
+  - Microsoft Visual Studio Code.
+
+  Currently I am learning:
+  - TypeScript,
+  - Node.js,
+  - GraphQL,
+  - Testing Library.
+
 <br/>
 
 <details>
@@ -29,38 +64,6 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat. One click will help you make that tough decision!</i>
   - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
   - Version: <i>1.0.0</i>
-</details>
-
-<details>
-  <summary><b>🛠️ Languages and Tools</b></summary>
-  <br/>
-
-  In my projects, I mostly use the following programming languages and tools:
-  - JavaScript,
-  - React,
-  - Redux,
-  - HTML,
-  - CSS,
-  - SCSS,
-  - JSX,
-  - SQL,
-  - React Router,
-  - React Hooks,
-  - Babel,
-  - Webpack,
-  - ES6,
-  - Jest,
-  - Enzyme,
-  - Git,
-  - Npm,
-  - Firebase,
-  - Microsoft Visual Studio Code.
-
-  Currently I am learning:
-  - TypeScript,
-  - Node.js,
-  - GraphQL,
-  - Testing Library.
 </details>
 
 <details>
