@@ -4,6 +4,8 @@ I became fascinated with programming a few years ago. Since then, I have been tr
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
+<br/>
+
 ## 🛠️ Tech Stack
 
 In my projects, I mostly use the following programming languages and tools:
@@ -30,29 +32,40 @@ Currently I am learning:
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"></a>
 <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library"></a>
 
+<br/>
+
 ## 💼 My Projects
+
 🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat.</i>
 - Keywords: <i>JavaScript, React, HTML, SCSS, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
 - Version: <i>1.0.0</i>
 
+📜 <a href="https://github.com/lszymanski7/boilerplate-js"><b>Boilerplate JavaScript</b></a>
+- Description: <i>Boilerplate for creating JavaScript projects.</i>
+- Technologies: <i>JavaScript, HTML, SCSS, Babel, Webpack, Npm</i>
+- Version: <i>1.0.0</i>
+
+📜 <a href="https://github.com/lszymanski7/boilerplate-react"><b>Boilerplate React</b></a>
+- Description: <i>Boilerplate for creating JavaScript projects based on the React library.</i>
+- Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
+- Version: <i>1.0.0</i>
+
 <br/>
 
-<details>
-  <summary><b>📊 Statistics</b></summary>
-  <br/>
-  
-  <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true" alt="GitHub Stats Card"></a>
-  <br/>
-  <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
-</details>
+## 📊 Statistics
 
-<details>
-  <summary><b>🏆 Achievements</b></summary>
-  <br/>
-  
-  <a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a>
-</details>
+<a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true" alt="GitHub Stats Card"></a>
+
+<a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
+
+<!-- <br/>
+
+## 🏆 Achievements
+
+<a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a> -->
+
+<br/>
 
 ---
 
