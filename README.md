@@ -10,7 +10,7 @@ In my projects, I mostly use the following programming languages and tools:
 
 <img src="https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=f0db4f" alt="JavaScript"></a>
 <img src="https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61dbfb" alt="React"></a>
-<img src="  https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764abc" alt="Redux"></a>
+<img src="https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764abc" alt="Redux"></a>
 <img src="https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=f06529" alt="HTML"></a>
 
   - JavaScript,
