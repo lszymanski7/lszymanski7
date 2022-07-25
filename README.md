@@ -4,8 +4,6 @@ I became fascinated with programming a few years ago. Since then, I have been tr
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
-<br/>
-
 ## 🛠️ Tech Stack
 
 In my projects, I mostly use the following programming languages and tools:
@@ -31,8 +29,6 @@ Currently I am learning:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"></a>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"></a>
 <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library"></a>
-
-<br/>
 
 ## 💼 My Projects
 
@@ -64,8 +60,6 @@ Currently I am learning:
 ## 🏆 Achievements
 
 <a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a> -->
-
-<br/>
 
 ---
 
