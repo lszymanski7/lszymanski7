@@ -30,32 +30,13 @@ Currently I am learning:
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"></a>
 <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library"></a>
 
+## 💼 My Projects
+🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
+- Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat.</i>
+- Keywords: <i>JavaScript, React, HTML, SCSS, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
+- Version: <i>1.0.0</i>
+
 <br/>
-
-<details>
-  <summary><b>💼 My Projects</b></summary>
-  <br/>
-  
-  <a href="https://github.com/lszymanski7/boilerplate-js"><b>Boilerplate JavaScript</b></a>
-  - Description: <i>Boilerplate for creating projects in JavaScript. It contains the basic configuration of webpack and babel.</i>
-  - Technologies: <i>JavaScript, HTML, SCSS, Babel, Webpack, Npm</i>
-  - Version: <i>1.0.0</i>
-
-  <a href="https://github.com/lszymanski7/boilerplate-react"><b>Boilerplate React</b></a>
-  - Description: <i>Boilerplate for creating JavaScript projects based on the React library. Includes basic Webpack and Babel configuration. It also allows to use Redux and React Router.</i>
-  - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
-  - Version: <i>1.0.0</i>
-
-  <a href="https://github.com/lszymanski7/currency-exchange-app"><b>Currency Exchange App</b></a>
-  - Description: <i>An application that allows you to check the current exchange rates of the most popular currencies, such as USD, EUR, GBP and CHF. It also has a built-in currency converter.</i>
-  - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
-  - Version: <i>1.0.0</i>
-
-  <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity App</b></a>
-  - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat. One click will help you make that tough decision!</i>
-  - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
-  - Version: <i>1.0.0</i>
-</details>
 
 <details>
   <summary><b>📊 Statistics</b></summary>
