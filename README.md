@@ -18,9 +18,9 @@ In my projects, I mostly use the following programming languages and tools:
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white" alt="Babel"></a>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" alt="Webpack"></a>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase"></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
 <img src="https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white" alt="Npm"></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase"></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 
 Currently I am learning:
@@ -30,7 +30,7 @@ Currently I am learning:
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"></a>
 <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library"></a>
 
-## 💼 My Projects
+## 💼 Projects
 
 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat.</i>
@@ -47,21 +47,17 @@ Currently I am learning:
 - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
 - Version: <i>1.0.0</i>
 
-<!-- <br/>
-
-## 📊 Statistics
+<!-- ## 📊 Statistics
 
 <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true" alt="GitHub Stats Card"></a>
 
 <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
 
-<br/>
-
 ## 🏆 Achievements
 
 <a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a> -->
 
----
+## 📫 Links
 
 <p align="center">
   <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
