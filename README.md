@@ -4,6 +4,35 @@ I became fascinated with programming a few years ago. Since then, I have been tr
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
+## 🛠️ Tech Stack
+
+In my projects, I mostly use the following programming languages and tools:
+  - JavaScript,
+  - React,
+  - Redux,
+  - HTML,
+  - CSS,
+  - SCSS,
+  - JSX,
+  - SQL,
+  - React Router,
+  - React Hooks,
+  - Babel,
+  - Webpack,
+  - ES6,
+  - Jest,
+  - Enzyme,
+  - Git,
+  - Npm,
+  - Firebase,
+  - Microsoft Visual Studio Code.
+
+Currently I am learning:
+  - TypeScript,
+  - Node.js,
+  - GraphQL,
+  - Testing Library.
+
 ## 💼 Projects
 <details>
   <summary><b>Expand</b></summary>
@@ -28,39 +57,6 @@ Interests are an important part of my life. In my spare time, I like traveling, 
   - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat. One click will help you make that tough decision!</i>
   - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
   - Version: <i>1.0.0</i>
-</details>
-
-## 🛠️ Languages and Tools
-<details>
-  <summary><b>Exapnd</b></summary>
-  <br/>
-
-  In my projects, I mostly use the following programming languages and tools:
-  - JavaScript,
-  - React,
-  - Redux,
-  - HTML,
-  - CSS,
-  - SCSS,
-  - JSX,
-  - SQL,
-  - React Router,
-  - React Hooks,
-  - Babel,
-  - Webpack,
-  - ES6,
-  - Jest,
-  - Enzyme,
-  - Git,
-  - Npm,
-  - Firebase,
-  - Microsoft Visual Studio Code.
-
-  Currently I am learning:
-  - TypeScript,
-  - Node.js,
-  - GraphQL,
-  - Testing Library.
 </details>
 
 ## 📊 Statistics
