@@ -4,38 +4,10 @@ I became fascinated with programming a few years ago. Since then, I have been tr
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
-## 🛠️ Tech Stack
+<br/>
 
-In my projects, I mostly use the following programming languages and tools:
-  - JavaScript,
-  - React,
-  - Redux,
-  - <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" width="20px" height="20px"> HTML,
-  - CSS,
-  - SCSS,
-  - JSX,
-  - SQL,
-  - React Router,
-  - React Hooks,
-  - Babel,
-  - Webpack,
-  - ES6,
-  - Jest,
-  - Enzyme,
-  - Git,
-  - Npm,
-  - Firebase,
-  - Microsoft Visual Studio Code.
-
-Currently I am learning:
-  - TypeScript,
-  - Node.js,
-  - GraphQL,
-  - Testing Library.
-
-## 💼 Projects
 <details>
-  <summary><b>Expand</b></summary>
+  <summary><b>💼 My Projects</b></summary>
   <br/>
   
   <a href="https://github.com/lszymanski7/boilerplate-js"><b>Boilerplate JavaScript</b></a>
@@ -59,9 +31,40 @@ Currently I am learning:
   - Version: <i>1.0.0</i>
 </details>
 
-## 📊 Statistics
 <details>
-  <summary><b>Expand</b></summary>
+  <summary><b>🛠️ Languages and Tools</b></summary>
+  <br/>
+
+  In my projects, I mostly use the following programming languages and tools:
+  - JavaScript,
+  - React,
+  - Redux,
+  - HTML,
+  - CSS,
+  - SCSS,
+  - JSX,
+  - SQL,
+  - React Router,
+  - React Hooks,
+  - Babel,
+  - Webpack,
+  - ES6,
+  - Jest,
+  - Enzyme,
+  - Git,
+  - Npm,
+  - Firebase,
+  - Microsoft Visual Studio Code.
+
+  Currently I am learning:
+  - TypeScript,
+  - Node.js,
+  - GraphQL,
+  - Testing Library.
+</details>
+
+<details>
+  <summary><b>📊 Statistics</b></summary>
   <br/>
   
   <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true" alt="GitHub Stats Card"></a>
@@ -69,9 +72,8 @@ Currently I am learning:
   <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
 </details>
 
-## 🏆 Achievements
 <details>
-  <summary><b>Expand</b></summary>
+  <summary><b>🏆 Achievements</b></summary>
   <br/>
   
   <a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a>
