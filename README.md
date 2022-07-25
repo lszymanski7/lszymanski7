@@ -4,7 +4,7 @@ I became fascinated with programming a few years ago. Since then, I have been tr
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 In my projects, I mostly use the following programming languages and tools:
 
@@ -12,32 +12,27 @@ In my projects, I mostly use the following programming languages and tools:
 <img src="https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61dbfb" alt="React"></a>
 <img src="https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764abc" alt="Redux"></a>
 <img src="https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=f06529" alt="HTML"></a>
+<img src="https://img.shields.io/badge/CSS-424242?style=flat&logo=css3&logoColor=2965f1" alt="CSS"></a>
+<img src="https://img.shields.io/badge/SCSS-424242?style=flat&logo=scss3&logoColor=cd6799" alt="SCSS"></a>
+<img src="https://img.shields.io/badge/JSX-424242?style=flat&logo=jsx&logoColor=cd6799" alt="JSX"></a>
+<img src="https://img.shields.io/badge/SQL-424242?style=flat&logo=sql&logoColor=cd6799" alt="SQL"></a>
+<img src="https://img.shields.io/badge/React%20Router-424242?style=flat&logo=react%20router3&logoColor=cd6799" alt="React Router"></a>
+<img src="https://img.shields.io/badge/React%20Hooks-424242?style=flat&logo=react%20hooks&logoColor=cd6799" alt="React Hooks"></a>
+<img src="https://img.shields.io/badge/Babel-424242?style=flat&logo=babel&logoColor=f9dc3e" alt="Babel"></a>
+<img src="https://img.shields.io/badge/Webpack-424242?style=flat&logo=webpack&logoColor=8dd6f9" alt="Webpack"></a>
+<img src="https://img.shields.io/badge/ES6-424242?style=flat&logo=es6&logoColor=cd6799" alt="ES6"></a>
+<img src="https://img.shields.io/badge/Jest-424242?style=flat&logo=jest&logoColor=99424f" alt="Jest"></a>
+<img src="https://img.shields.io/badge/Git-424242?style=flat&logo=git&logoColor=f1502f" alt="Git"></a>
+<img src="https://img.shields.io/badge/Npm-424242?style=flat&logo=npm&logoColor=cc3534" alt="Npm"></a>
+<img src="https://img.shields.io/badge/Firebase-424242?style=flat&logo=firebase&logoColor=ffa000" alt="Firebase"></a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-424242?style=flat&logo=visual%20studio%20code&logoColor=0078d7" alt="Visual Studio Code"></a>
 
-  - JavaScript,
-  - React,
-  - Redux,
-  - HTML, 
-  - CSS,
-  - SCSS,
-  - JSX,
-  - SQL,
-  - React Router,
-  - React Hooks,
-  - Babel,
-  - Webpack,
-  - ES6,
-  - Jest,
-  - Enzyme,
-  - Git,
-  - Npm,
-  - Firebase,
-  - Microsoft Visual Studio Code.
+Currently I am learning:
 
-  Currently I am learning:
-  - TypeScript,
-  - Node.js,
-  - GraphQL,
-  - Testing Library.
+<img src="https://img.shields.io/badge/TypeScript-424242?style=flat&logo=typescript&logoColor=007acc" alt="TypeScript"></a>
+<img src="https://img.shields.io/badge/Node.js-424242?style=flat&logo=node.js&logoColor=3c873a" alt="Node.js"></a>
+<img src="https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=e535ab" alt="GraphQL"></a>
+<img src="https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=f5403f" alt="Testing Library"></a>
 
 <br/>
 
