@@ -10,7 +10,7 @@ In my projects, I mostly use the following programming languages and tools:
   - JavaScript,
   - React,
   - Redux,
-  - HTML,
+  - <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" width="15px" height="15px"> HTML,
   - CSS,
   - SCSS,
   - JSX,
