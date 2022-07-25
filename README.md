@@ -1,4 +1,4 @@
-## Hello GitHub!
+## 👋🏻 Hello GitHub!
 
 I became fascinated with programming a few years ago. Since then, I have been trying to constantly develop in this field. I enjoy working with the JavaScript programming language, combined with the React and Redux libraries. However, this does not mean that I am limited to these technologies only. My intellectual curiosity makes me love learning something new and look for solutions to any problems.
 
@@ -32,17 +32,17 @@ Currently I am learning:
 
 ## 💼 My Projects
 
-🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
+<a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat.</i>
 - Keywords: <i>JavaScript, React, HTML, SCSS, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
 - Version: <i>1.0.0</i>
 
-📜 <a href="https://github.com/lszymanski7/boilerplate-js"><b>Boilerplate JavaScript</b></a>
+<a href="https://github.com/lszymanski7/boilerplate-js"><b>Boilerplate JavaScript</b></a>
 - Description: <i>Boilerplate for creating JavaScript projects.</i>
 - Technologies: <i>JavaScript, HTML, SCSS, Babel, Webpack, Npm</i>
 - Version: <i>1.0.0</i>
 
-📜 <a href="https://github.com/lszymanski7/boilerplate-react"><b>Boilerplate React</b></a>
+<a href="https://github.com/lszymanski7/boilerplate-react"><b>Boilerplate React</b></a>
 - Description: <i>Boilerplate for creating JavaScript projects based on the React library.</i>
 - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
 - Version: <i>1.0.0</i>
@@ -64,8 +64,8 @@ Currently I am learning:
 ---
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-f58025?style=flat&logo=stackoverflow&logoColor=white"></a>
-  <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab"></a>
-  <a href="https://www.linkedin.com/in/lszymanski7"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin"></a>
+  <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-8C929D?style=flat&logo=gitlab"></a>
+  <a href="https://www.linkedin.com/in/lszymanski7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
   <a href="https://twitter.com/lszymanski7_"><img src="https://img.shields.io/twitter/follow/lszymanski7_?label=Twitter&style=social"></a>
 </p>
