@@ -65,7 +65,7 @@ Currently I am learning:
 
 <p align="center">
   <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
-  <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-8C929D?style=flat&logo=gitlab"></a>
+  <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab"></a>
   <a href="https://www.linkedin.com/in/lszymanski7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
   <a href="https://twitter.com/lszymanski7_"><img src="https://img.shields.io/twitter/follow/lszymanski7_?label=Twitter&style=social"></a>
 </p>
