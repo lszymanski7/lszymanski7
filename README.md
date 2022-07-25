@@ -36,19 +36,14 @@ Currently I am learning:
 
 ## 💼 Projects
 
-<a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
-- Description: <i>An app for fruit lovers who can't decide what fruit they would like to eat.</i>
+🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
+- Description: <i>An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will help you make that tough decision!</i>
 - Keywords: <i>JavaScript, React, HTML, SCSS, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
 - Version: <i>1.0.0</i>
 
-<a href="https://github.com/lszymanski7/boilerplate-js"><b>Boilerplate JavaScript</b></a>
-- Description: <i>Boilerplate for creating JavaScript projects.</i>
-- Technologies: <i>JavaScript, HTML, SCSS, Babel, Webpack, Npm</i>
-- Version: <i>1.0.0</i>
-
-<a href="https://github.com/lszymanski7/boilerplate-react"><b>Boilerplate React</b></a>
-- Description: <i>Boilerplate for creating JavaScript projects based on the React library.</i>
-- Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
+💰 <a href="https://github.com/lszymanski7/currency-exchange-app"><b>Currency Exchange</b></a>
+- Description: <i>An application that allows you to check the current exchange rates of the most popular currencies, such as USD, EUR, GBP and CHF. It also has a built-in currency converter.</i>
+- Keywords: <i>JavaScript, React, HTML, SCSS, Redux, React Router, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
 - Version: <i>1.0.0</i>
 
 <!-- <br/>
@@ -67,9 +62,11 @@ Currently I am learning:
 
 <br/>
 
-## 🌐 Links
+##
 
-<p align="left">
+<p align="center">Connect with me:</p>
+
+<p align="center">
   <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
   <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab"></a>
   <a href="https://www.linkedin.com/in/lszymanski7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
