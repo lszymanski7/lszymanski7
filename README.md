@@ -10,27 +10,27 @@ Interests are an important part of my life. In my spare time, I like traveling, 
 
 In my projects, I mostly use the following programming languages and tools:
 
-<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
-<img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB" alt="React"></a>
-<img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux&logoColor=764ABC" alt="Redux"></a>
-<img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=E34F26" alt="HTML"></a>
-<img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=1572B6" alt="CSS"></a>
-<img src="https://img.shields.io/badge/SASS-black?style=flat&logo=SASS&logoColor=CC6699" alt="SASS"></a>
-<img src="https://img.shields.io/badge/React%20Router-black?logo=react-router&logoColor=CA4245" alt="React Router"></a>
-<img src="https://img.shields.io/badge/Babel-black?style=flat&logo=babel&logoColor=F9DC3E" alt="Babel"></a>
-<img src="https://img.shields.io/badge/Webpack-black?style=flat&logo=webpack&logoColor=8DD6F9" alt="Webpack"></a>
-<img src="https://img.shields.io/badge/Jest-black?style=flat&logo=jest&logoColor=C21325" alt="Jest"></a>
-<img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=F05032" alt="Git"></a>
-<img src="https://img.shields.io/badge/Npm-black?style=flat&logo=npm&logoColor=CB3837" alt="Npm"></a>
-<img src="https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase"></a>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual%20studio%20code&logoColor=007ACC" alt="Visual Studio Code"></a>
+<img src="https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
+<img src="https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61DAFB" alt="React"></a>
+<img src="https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764ABC" alt="Redux"></a>
+<img src="https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=E34F26" alt="HTML"></a>
+<img src="https://img.shields.io/badge/CSS-424242?style=flat&logo=css3&logoColor=1572B6" alt="CSS"></a>
+<img src="https://img.shields.io/badge/SASS-424242?style=flat&logo=SASS&logoColor=CC6699" alt="SASS"></a>
+<img src="https://img.shields.io/badge/React%20Router-424242?logo=react-router&logoColor=CA4245" alt="React Router"></a>
+<img src="https://img.shields.io/badge/Babel-424242?style=flat&logo=babel&logoColor=F9DC3E" alt="Babel"></a>
+<img src="https://img.shields.io/badge/Webpack-424242?style=flat&logo=webpack&logoColor=8DD6F9" alt="Webpack"></a>
+<img src="https://img.shields.io/badge/Jest-424242?style=flat&logo=jest&logoColor=C21325" alt="Jest"></a>
+<img src="https://img.shields.io/badge/Git-424242?style=flat&logo=git&logoColor=F05032" alt="Git"></a>
+<img src="https://img.shields.io/badge/Npm-424242?style=flat&logo=npm&logoColor=CB3837" alt="Npm"></a>
+<img src="https://img.shields.io/badge/Firebase-424242?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase"></a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-424242?style=flat&logo=visual%20studio%20code&logoColor=007ACC" alt="Visual Studio Code"></a>
 
 Currently I am learning:
 
-<img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
-<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=339933" alt="Node.js"></a>
-<img src="https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql&logoColor=E10098" alt="GraphQL"></a>
-<img src="https://img.shields.io/badge/Testing%20Library-black?style=flat&logo=testinglibrary&logoColor=E33332" alt="Testing Library"></a>
+<img src="https://img.shields.io/badge/TypeScript-424242?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
+<img src="https://img.shields.io/badge/Node.js-424242?style=flat&logo=node.js&logoColor=339933" alt="Node.js"></a>
+<img src="https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=E10098" alt="GraphQL"></a>
+<img src="https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=E33332" alt="Testing Library"></a>
 
 <br/>
 
