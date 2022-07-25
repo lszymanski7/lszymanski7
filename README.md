@@ -51,7 +51,7 @@ Currently I am learning:
 - Technologies: <i>JavaScript, React, Redux, React Router, HTML, SCSS, Babel, Webpack, Npm</i>
 - Version: <i>1.0.0</i>
 
-<br/>
+<!-- <br/>
 
 ## 📊 Statistics
 
@@ -59,7 +59,7 @@ Currently I am learning:
 
 <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
 
-<!-- <br/>
+<br/>
 
 ## 🏆 Achievements
 
