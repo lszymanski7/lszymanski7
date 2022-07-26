@@ -38,7 +38,7 @@ Currently I am learning:
 ## 💼 Projects
 🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will help you make that tough decision!</i>
-- Keywords: <i>JavaScript, React, HTML, SCSS, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
+- Keywords: <i>JavaScript, React, HTML, CSS, SASS, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, Eslint, Prettier</i>
 - Version: <i>1.0.0</i>
 
 💰 <a href="https://github.com/lszymanski7/currency-exchange-app"><b>Currency Exchange</b></a>
