@@ -10,30 +10,30 @@ Interests are an important part of my life. In my spare time, I like traveling, 
 ## 🛠️ Tech Stack
 In my projects, I mostly use the following programming languages and tools:
 
-<img src="https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
-<img src="https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61DAFB" alt="React"></a>
-<img src="https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764ABC" alt="Redux"></a>
-<img src="https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=E34F26" alt="HTML"></a>
-<img src="https://img.shields.io/badge/CSS-424242?style=flat&logo=css3&logoColor=1572B6" alt="CSS"></a>
-<img src="https://img.shields.io/badge/SASS-424242?style=flat&logo=SASS&logoColor=CC6699" alt="SASS"></a>
-<img src="https://img.shields.io/badge/React%20Router-424242?logo=react-router&logoColor=CA4245" alt="React Router"></a>
-<img src="https://img.shields.io/badge/Babel-424242?style=flat&logo=babel&logoColor=F9DC3E" alt="Babel"></a>
-<img src="https://img.shields.io/badge/Webpack-424242?style=flat&logo=webpack&logoColor=8DD6F9" alt="Webpack"></a>
-<img src="https://img.shields.io/badge/Jest-424242?style=flat&logo=jest&logoColor=C21325" alt="Jest"></a>
-<img src="https://img.shields.io/badge/Git-424242?style=flat&logo=git&logoColor=F05032" alt="Git"></a>
-<img src="https://img.shields.io/badge/Npm-424242?style=flat&logo=npm&logoColor=CB3837" alt="Npm"></a>
-<img src="https://img.shields.io/badge/ESLint-424242?style=flat&logo=eslint&logoColor=4B32C3" alt="ESLint"></a>
-<img src="https://img.shields.io/badge/Prettier-424242?style=flat&logo=prettier&logoColor=F7B93E" alt="Prettier"></a>
-<img src="https://img.shields.io/badge/Firebase-424242?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase"></a>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-424242?style=flat&logo=visual%20studio%20code&logoColor=007ACC" alt="Visual Studio Code"></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-424242?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764ABC)
+![HTML](https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-424242?style=flat&logo=css3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/SASS-424242?style=flat&logo=SASS&logoColor=CC6699)
+![React Router](https://img.shields.io/badge/React%20Router-424242?logo=react-router&logoColor=CA4245)
+![Babel](https://img.shields.io/badge/Babel-424242?style=flat&logo=babel&logoColor=F9DC3E)
+![Webpack](https://img.shields.io/badge/Webpack-424242?style=flat&logo=webpack&logoColor=8DD6F9)
+![Jest](https://img.shields.io/badge/Jest-424242?style=flat&logo=jest&logoColor=C21325)
+![Git](https://img.shields.io/badge/Git-424242?style=flat&logo=git&logoColor=F05032)
+![Npm](https://img.shields.io/badge/Npm-424242?style=flat&logo=npm&logoColor=CB3837)
+![ESLint](https://img.shields.io/badge/ESLint-424242?style=flat&logo=eslint&logoColor=4B32C3)
+![Prettier](https://img.shields.io/badge/Prettier-424242?style=flat&logo=prettier&logoColor=F7B93E)
+![Firebase](https://img.shields.io/badge/Firebase-424242?style=flat&logo=firebase&logoColor=FFCA28)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-424242?style=flat&logo=visual%20studio%20code&logoColor=007ACC)
 
 Currently I am learning:
 
-<img src="https://img.shields.io/badge/TypeScript-424242?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
-<img src="https://img.shields.io/badge/Node.js-424242?style=flat&logo=node.js&logoColor=339933" alt="Node.js"></a>
-<img src="https://img.shields.io/badge/Express-424242?style=flat&logo=express&logoColor=FFFFFF" alt="Express"></a>
-<img src="https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=E10098" alt="GraphQL"></a>
-<img src="https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=E33332" alt="Testing Library"></a>
+![TypeScript](https://img.shields.io/badge/TypeScript-424242?style=flat&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-424242?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-424242?style=flat&logo=express&logoColor=FFFFFF)
+![GraphQL](https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=E10098)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=E33332)
 
 <br/>
 
@@ -53,24 +53,26 @@ Currently I am learning:
 
 <!-- STATISTICS -->
 <!-- ## 📊 Statistics
-<a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true" alt="GitHub Stats Card"></a>
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true)](https://github.com/lszymanski7)
 
-<a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
+[![GitHub Most Used Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3)](https://github.com/lszymanski7)
 
 <br/> -->
 
 <!-- ACHIEVEMENTS -->
 <!-- ## 🏆 Achievements
-<a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a>
+[![GitHub Profile Trophy Card](https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false)](https://github.com/lszymanski7)
 
 <br/> -->
 
 <!-- LINKS -->
 ##
-<p align="center">Connect with me:</p>
-<p align="center">
-  <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
-  <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab"></a>
-  <a href="https://linkedin.com/in/lszymanski7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/lszymanski7_"><img src="https://img.shields.io/twitter/follow/lszymanski7_?label=Twitter&style=social"></a>
-</p>
+<div align="center">
+  <p>Connect with me:</p>
+  
+  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18706083)
+  [![GitLab](https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab)](https://gitlab.com/lszymanski7)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lszymanski7)
+  [![Twitter](https://img.shields.io/twitter/follow/lszymanski7_?label=Twitter&style=social)](https://twitter.com/lszymanski7_)
+  
+</div>
