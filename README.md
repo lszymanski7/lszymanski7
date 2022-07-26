@@ -22,6 +22,8 @@ In my projects, I mostly use the following programming languages and tools:
 <img src="https://img.shields.io/badge/Jest-424242?style=flat&logo=jest&logoColor=C21325" alt="Jest"></a>
 <img src="https://img.shields.io/badge/Git-424242?style=flat&logo=git&logoColor=F05032" alt="Git"></a>
 <img src="https://img.shields.io/badge/Npm-424242?style=flat&logo=npm&logoColor=CB3837" alt="Npm"></a>
+<img src="https://img.shields.io/badge/ESLint-424242?style=flat&logo=eslint&logoColor=4B32C3" alt="ESLint"></a>
+<img src="https://img.shields.io/badge/Prettier-424242?style=flat&logo=prettier&logoColor=F7B93E" alt="Prettier"></a>
 <img src="https://img.shields.io/badge/Firebase-424242?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase"></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-424242?style=flat&logo=visual%20studio%20code&logoColor=007ACC" alt="Visual Studio Code"></a>
 
@@ -29,6 +31,7 @@ Currently I am learning:
 
 <img src="https://img.shields.io/badge/TypeScript-424242?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
 <img src="https://img.shields.io/badge/Node.js-424242?style=flat&logo=node.js&logoColor=339933" alt="Node.js"></a>
+<img src="https://img.shields.io/badge/Express-424242?style=flat&logo=express&logoColor=FFFFFF" alt="Express"></a>
 <img src="https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=E10098" alt="GraphQL"></a>
 <img src="https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=E33332" alt="Testing Library"></a>
 
@@ -38,12 +41,12 @@ Currently I am learning:
 ## 💼 Projects
 🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will help you make that tough decision!</i>
-- Keywords: <i>JavaScript, React, HTML, CSS, SASS, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, Eslint, Prettier</i>
+- Keywords: <i>JavaScript, React, HTML, CSS, SASS, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
 - Version: <i>1.0.0</i>
 
 💰 <a href="https://github.com/lszymanski7/currency-exchange-app"><b>Currency Exchange</b></a>
 - Description: <i>An application that allows you to check the current exchange rates of the most popular currencies, such as USD, EUR, GBP and CHF. It also has a built-in currency converter.</i>
-- Keywords: <i>JavaScript, React, HTML, SCSS, Redux, React Router, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
+- Keywords: <i>JavaScript, React, HTML, CSS, SASS, Redux, React Router, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
 - Version: <i>1.0.0</i>
 
 <br/>
