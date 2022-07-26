@@ -1,13 +1,13 @@
+<!-- ABOUT ME -->
 ## 👋🏻 Hello GitHub!
-
 I became fascinated with programming a few years ago. Since then, I have been trying to constantly develop in this field. I enjoy working with the JavaScript programming language, combined with the React and Redux libraries. However, this does not mean that I am limited to these technologies only. My intellectual curiosity makes me love learning something new and look for solutions to any problems.
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
 <br/>
 
+<!-- TECHNOLOGY STACK -->
 ## 🛠️ Tech Stack
-
 In my projects, I mostly use the following programming languages and tools:
 
 <img src="https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
@@ -34,8 +34,8 @@ Currently I am learning:
 
 <br/>
 
+<!-- MY PROJECTS -->
 ## 💼 Projects
-
 🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will help you make that tough decision!</i>
 - Keywords: <i>JavaScript, React, HTML, SCSS, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
@@ -46,26 +46,25 @@ Currently I am learning:
 - Keywords: <i>JavaScript, React, HTML, SCSS, Redux, React Router, Webpack, Babel, Jest, Npm, Eslint, Prettier, Express</i>
 - Version: <i>1.0.0</i>
 
-<!-- <br/>
+<br/>
 
-## 📊 Statistics
-
+<!-- STATISTICS -->
+<!-- ## 📊 Statistics
 <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true" alt="GitHub Stats Card"></a>
 
 <a href="https://github.com/lszymanski7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3" alt="GitHub Most Used Languages Card"></a>
 
-<br/>
+<br/> -->
 
-## 🏆 Achievements
+<!-- ACHIEVEMENTS -->
+<!-- ## 🏆 Achievements
+<a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a>
 
-<a href="https://github.com/lszymanski7"><img src="https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false" alt="GitHub Profile Trophy Card"></a> -->
+<br/> -->
 
-<br/>
-
+<!-- LINKS -->
 ##
-
 <p align="center">Connect with me:</p>
-
 <p align="center">
   <a href="https://stackoverflow.com/users/18706083"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
   <a href="https://gitlab.com/lszymanski7"><img src="https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab"></a>
