@@ -44,11 +44,6 @@ Currently I am learning:
 - Keywords: <i>JavaScript, React, HTML, CSS, SASS, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
 - Version: <i>1.0.0</i>
 
-💰 <a href="https://github.com/lszymanski7/currency-exchange-app"><b>Currency Exchange</b></a>
-- Description: <i>An application that allows you to check the current exchange rates of the most popular currencies, such as USD, EUR, GBP and CHF. It also has a built-in currency converter.</i>
-- Keywords: <i>JavaScript, React, HTML, CSS, SASS, Redux, React Router, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
-- Version: <i>1.0.0</i>
-
 <br/>
 
 <!-- STATISTICS -->
