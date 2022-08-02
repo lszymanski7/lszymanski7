@@ -34,6 +34,7 @@ Currently I am learning:
 ![Express](https://img.shields.io/badge/Express-424242?style=flat&logo=express&logoColor=FFFFFF)
 ![GraphQL](https://img.shields.io/badge/GraphQL-424242?style=flat&logo=graphql&logoColor=E10098)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-424242?style=flat&logo=testinglibrary&logoColor=E33332)
+![Docker](https://img.shields.io/badge/Docker-424242?style=flat&logo=docker&logoColor=2496ED)
 
 <br/>
 
