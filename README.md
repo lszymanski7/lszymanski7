@@ -40,7 +40,7 @@ Currently I am learning:
 
 <!-- MY PROJECTS -->
 ## 💼 Projects
-🍓 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
+<a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will help you make that tough decision!</i>
 - Keywords: <i>JavaScript, React, HTML, CSS, SASS, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
 - Version: <i>1.0.0</i>
