@@ -15,7 +15,7 @@ In my projects, I mostly use the following programming languages and tools:
 ![Redux](https://img.shields.io/badge/Redux-424242?style=flat&logo=redux&logoColor=764ABC)
 ![HTML](https://img.shields.io/badge/HTML-424242?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-424242?style=flat&logo=css3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/SASS-424242?style=flat&logo=SASS&logoColor=CC6699)
+![Sass](https://img.shields.io/badge/Sass-424242?style=flat&logo=Sass&logoColor=CC6699)
 ![React Router](https://img.shields.io/badge/React%20Router-424242?logo=react-router&logoColor=CA4245)
 ![Webpack](https://img.shields.io/badge/Webpack-424242?style=flat&logo=webpack&logoColor=8DD6F9)
 ![Babel](https://img.shields.io/badge/Babel-424242?style=flat&logo=babel&logoColor=F9DC3E)
@@ -42,7 +42,7 @@ Currently I am learning:
 ## 💼 Projects
 <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
 - Description: <i>An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will help you make that tough decision!</i>
-- Keywords: <i>JavaScript, React, HTML, CSS, SASS, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
+- Keywords: <i>JavaScript, React, HTML, CSS, Sass, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
 - Version: <i>1.0.0</i>
 
 <br/>
