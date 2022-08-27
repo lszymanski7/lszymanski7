@@ -7,7 +7,7 @@ Interests are an important part of my life. In my spare time, I like traveling, 
 <br/>
 
 <!-- TECHNOLOGY STACK -->
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 In my projects, I mostly use the following programming languages and tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-424242?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -45,21 +45,17 @@ Currently I am learning:
 - Keywords: <i>JavaScript, React, HTML, CSS, Sass, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
 - Version: <i>1.0.0</i>
 
+<a href="https://github.com/lszymanski7/boilerplate-js"><b>JavaScript Boilerplate</b></a>
+- Description: <i>Boilerplate for creating projects in the JavaScript programming language. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier.</i>
+- Keywords: <i>Boilerplate, JavaScript, HTML, CSS, Sass, Webpack, Babel, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
+- Version: <i>1.0.0</i>
+
+<a href="https://github.com/lszymanski7/boilerplate-react"><b>React Boilerplate</b></a>
+- Description: <i>Boilerplate for creating projects in the JavaScript programming language based on React and Redux libraries. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier.</i>
+- Keywords: <i>Boilerplate, JavaScript, React, Redux, HTML, CSS, Sass, React Router, Webpack, Babel, Jest, Testing Library, Node.js, Npm, Express, ESLint, Prettier</i>
+- Version: <i>1.0.0</i>
+
 <br/>
-
-<!-- STATISTICS -->
-<!-- ## 📊 Statistics
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=lszymanski7&theme=default&show_icons=true&custom_title=Activity&include_all_commits=true)](https://github.com/lszymanski7)
-
-[![GitHub Most Used Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lszymanski7&theme=default&custom_title=Most%20Used%20Languages&card_width=495&langs_count=3)](https://github.com/lszymanski7)
-
-<br/> -->
-
-<!-- ACHIEVEMENTS -->
-<!-- ## 🏆 Achievements
-[![GitHub Profile Trophy Card](https://github-profile-trophy.vercel.app/?username=lszymanski7&theme=flat&margin-w=10&no-bg=false)](https://github.com/lszymanski7)
-
-<br/> -->
 
 <!-- LINKS -->
 ##
@@ -70,5 +66,5 @@ Currently I am learning:
   [![GitLab](https://img.shields.io/badge/GitLab-424242?style=flat&logo=gitlab)](https://gitlab.com/lszymanski7)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lszymanski7)
   [![Twitter](https://img.shields.io/twitter/follow/lszymanski7_?label=Twitter&style=social)](https://twitter.com/lszymanski7_)
-  
+
 </div>
