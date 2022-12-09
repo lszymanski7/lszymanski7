@@ -40,20 +40,13 @@ Currently I am learning:
 
 <!-- MY PROJECTS -->
 ## 💼 Projects
-<a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a>
-- Description: <i>An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will help you make that tough decision!</i>
-- Keywords: <i>JavaScript, React, HTML, CSS, Sass, Webpack, Babel, Testing Library, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
-- Version: <i>1.0.0</i>
+<a href="https://github.com/lszymanski7/boilerplate-js"><b>JavaScript Boilerplate</b></a> - Boilerplate for creating projects in the JavaScript programming language. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier.
 
-<a href="https://github.com/lszymanski7/boilerplate-js"><b>JavaScript Boilerplate</b></a>
-- Description: <i>Boilerplate for creating projects in the JavaScript programming language. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier.</i>
-- Keywords: <i>Boilerplate, JavaScript, HTML, CSS, Sass, Webpack, Babel, Jest, Node.js, Npm, Express, ESLint, Prettier</i>
-- Version: <i>1.0.0</i>
+<a href="https://github.com/lszymanski7/boilerplate-react"><b>React Boilerplate</b></a> - Boilerplate for creating projects in the JavaScript programming language based on React and Redux libraries. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier.
 
-<a href="https://github.com/lszymanski7/boilerplate-react"><b>React Boilerplate</b></a>
-- Description: <i>Boilerplate for creating projects in the JavaScript programming language based on React and Redux libraries. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier.</i>
-- Keywords: <i>Boilerplate, JavaScript, React, Redux, HTML, CSS, Sass, React Router, Webpack, Babel, Jest, Testing Library, Node.js, Npm, Express, ESLint, Prettier</i>
-- Version: <i>1.0.0</i>
+<a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a> - An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will solve this problem!
+
+<a href="https://github.com/lszymanski7/tic-tac-toe"><b>Tic-Tac-Toe</b></a> - A simple strategy game played by two players. Each of them aims to win by covering three cells on one line with the same symbol.
 
 <br/>
 
