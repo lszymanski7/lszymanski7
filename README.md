@@ -41,7 +41,7 @@ Currently I am learning:
 <!-- MY PROJECTS -->
 ## 💼 Projects
 | Name | Description |
-| ------------- | ------------- |
+| :---: | :--- |
 | <a href="https://github.com/lszymanski7/boilerplate-js"><b>JavaScript Boilerplate</b></a> | Boilerplate for creating projects in the JavaScript programming language. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier. |
 | <a href="https://github.com/lszymanski7/boilerplate-react"><b>React Boilerplate</b></a> | Boilerplate for creating projects in the JavaScript programming language based on React and Redux libraries. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier. |
 | <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a> | An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will solve this problem! |
