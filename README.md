@@ -20,6 +20,7 @@ In my projects, I mostly use the following programming languages and tools:
 ![Webpack](https://img.shields.io/badge/Webpack-555555?style=flat&logo=webpack&logoColor=8DD6F9)
 ![Babel](https://img.shields.io/badge/Babel-555555?style=flat&logo=babel&logoColor=F9DC3E)
 ![Jest](https://img.shields.io/badge/Jest-555555?style=flat&logo=jest&logoColor=C21325)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-555555?style=flat&logo=testinglibrary&logoColor=E33332)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
 ![Npm](https://img.shields.io/badge/Npm-555555?style=flat&logo=npm&logoColor=CB3837)
 ![ESLint](https://img.shields.io/badge/ESLint-555555?style=flat&logo=eslint&logoColor=4B32C3)
@@ -33,7 +34,6 @@ Currently I am learning:
 ![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-555555?style=flat&logo=express&logoColor=FFFFFF)
 ![GraphQL](https://img.shields.io/badge/GraphQL-555555?style=flat&logo=graphql&logoColor=E10098)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-555555?style=flat&logo=testinglibrary&logoColor=E33332)
 ![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=2496ED)
 
 <br/>
