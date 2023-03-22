@@ -31,9 +31,9 @@ In my projects, I mostly use the following programming languages and tools:
 Currently I am learning:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-555555?style=flat&logo=express&logoColor=FFFFFF)
-![GraphQL](https://img.shields.io/badge/GraphQL-555555?style=flat&logo=graphql&logoColor=E10098)
+![styled-components](https://img.shields.io/badge/styled--components-555555?style=flat&logo=styledcomponents&logoColor=DB7093)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-555555?style=flat&logo=reduxsaga&logoColor=86D46B)
+![Cypress](https://img.shields.io/badge/Cypress-555555?style=flat&logo=cypress&logoColor=17202C)
 ![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=2496ED)
 
 <br/>
