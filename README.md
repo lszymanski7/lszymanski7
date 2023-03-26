@@ -23,6 +23,7 @@ In my projects, I mostly use the following programming languages and tools:
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-555555?style=flat&logo=testinglibrary&logoColor=E33332)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
 ![Npm](https://img.shields.io/badge/Npm-555555?style=flat&logo=npm&logoColor=CB3837)
+![Material UI](https://img.shields.io/badge/Material%20UI-555555?style=flat&logo=mui&logoColor=007FFF)
 ![ESLint](https://img.shields.io/badge/ESLint-555555?style=flat&logo=eslint&logoColor=4B32C3)
 ![Prettier](https://img.shields.io/badge/Prettier-555555?style=flat&logo=prettier&logoColor=F7B93E)
 ![Firebase](https://img.shields.io/badge/Firebase-555555?style=flat&logo=firebase&logoColor=FFCA28)
@@ -31,8 +32,6 @@ In my projects, I mostly use the following programming languages and tools:
 Currently I am learning:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=typescript&logoColor=3178C6)
-![Material UI](https://img.shields.io/badge/Material%20UI-555555?style=flat&logo=mui&logoColor=007FFF)
-![styled-components](https://img.shields.io/badge/styled--components-555555?style=flat&logo=styledcomponents&logoColor=DB7093)
 ![Cypress](https://img.shields.io/badge/Cypress-555555?style=flat&logo=cypress&logoColor=17202C)
 ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-555555?style=flat&logo=reduxsaga&logoColor=86D46B)
 
