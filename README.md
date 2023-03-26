@@ -31,9 +31,10 @@ In my projects, I mostly use the following programming languages and tools:
 Currently I am learning:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=typescript&logoColor=3178C6)
-![Redux-Saga](https://img.shields.io/badge/Redux--Saga-555555?style=flat&logo=reduxsaga&logoColor=86D46B)
-![Cypress](https://img.shields.io/badge/Cypress-555555?style=flat&logo=cypress&logoColor=17202C)
+![Material UI](https://img.shields.io/badge/Material%20UI-555555?style=flat&logo=mui&logoColor=007FFF)
 ![styled-components](https://img.shields.io/badge/styled--components-555555?style=flat&logo=styledcomponents&logoColor=DB7093)
+![Cypress](https://img.shields.io/badge/Cypress-555555?style=flat&logo=cypress&logoColor=17202C)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-555555?style=flat&logo=reduxsaga&logoColor=86D46B)
 
 <br/>
 
