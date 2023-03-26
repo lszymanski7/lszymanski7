@@ -17,6 +17,7 @@ In my projects, I mostly use the following programming languages and tools:
 ![CSS](https://img.shields.io/badge/CSS-555555?style=flat&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-555555?style=flat&logo=Sass&logoColor=CC6699)
 ![Material UI](https://img.shields.io/badge/Material%20UI-555555?style=flat&logo=mui&logoColor=007FFF)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-555555?style=flat&logo=styledcomponents&logoColor=DB7093)
 ![React Router](https://img.shields.io/badge/React%20Router-555555?logo=react-router&logoColor=CA4245)
 ![Webpack](https://img.shields.io/badge/Webpack-555555?style=flat&logo=webpack&logoColor=8DD6F9)
 ![Babel](https://img.shields.io/badge/Babel-555555?style=flat&logo=babel&logoColor=F9DC3E)
@@ -32,8 +33,8 @@ In my projects, I mostly use the following programming languages and tools:
 Currently I am learning:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=typescript&logoColor=3178C6)
-![Cypress](https://img.shields.io/badge/Cypress-555555?style=flat&logo=cypress&logoColor=17202C)
 ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-555555?style=flat&logo=reduxsaga&logoColor=86D46B)
+![Cypress](https://img.shields.io/badge/Cypress-555555?style=flat&logo=cypress&logoColor=17202C)
 
 <br/>
 
