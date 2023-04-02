@@ -42,8 +42,8 @@ Currently I am learning:
 ## 💼 Projects
 | Name | Description |
 | :---: | --- |
-| <a href="https://github.com/lszymanski7/boilerplate-js"><b>JavaScript Boilerplate</b></a> | Boilerplate for creating projects in the JavaScript programming language. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier. |
-| <a href="https://github.com/lszymanski7/boilerplate-react"><b>React Boilerplate</b></a> | Boilerplate for creating projects in the JavaScript programming language based on React and Redux libraries. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier. |
+| <a href="https://github.com/lszymanski7/boilerplate-js"><b>JavaScript Boilerplate</b></a> | A boilerplate for creating projects in the JavaScript programming language. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier. |
+| <a href="https://github.com/lszymanski7/boilerplate-react"><b>React Boilerplate</b></a> | A boilerplate for creating projects in the JavaScript programming language based on React and Redux libraries. It includes the basic configuration of tools such as Webpack, Babel, Jest, Express, ESLint and Prettier. |
 | <a href="https://github.com/lszymanski7/fruity-app"><b>Fruity</b></a> | An application for fruit lovers who can't decide what kind of fruit they would like to eat. One click will solve this problem! |
 | <a href="https://github.com/lszymanski7/tic-tac-toe"><b>Tic-Tac-Toe</b></a> | A simple strategy game played by two players. Each of them aims to win by covering three squares in one line with the same symbol. |
 | <a href="https://github.com/lszymanski7/todo-app"><b>To-Do</b></a> | An application for creating and managing a to-do list. It allows you to perform many operations, such as adding, updating and deleting tasks, as well as categorizing them. Everything to make planning easier and more efficient! |
