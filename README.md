@@ -1,8 +1,8 @@
 <!-- ABOUT ME -->
 ## 👋🏻 Hello GitHub!
-I became fascinated with programming a few years ago. Since then, I have been trying to constantly develop in this field. I enjoy working with the JavaScript programming language combined with the React library. However, this does not mean that I am limited to these technologies only. My intellectual curiosity makes me love learning something new and look for solutions to any problems.
+I became fascinated with programming a few years ago. Since then, I've been trying to constantly develop in this field. I enjoy working with the JavaScript programming language combined with the React library. However, this doesn't mean that I'm limited to these technologies only. My intellectual curiosity makes me love learning something new and look for solutions to any problems.
 
-Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
+Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I'm also keen on astronomy, computer games and music.
 
 <br/>
 
@@ -29,7 +29,7 @@ In my projects, I mostly use the following programming languages and tools:
 ![Firebase](https://img.shields.io/badge/Firebase-555555?style=flat&logo=firebase&logoColor=FFCA28)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-555555?style=flat&logo=visual%20studio%20code&logoColor=007ACC)
 
-Currently I am learning:
+I'm currently learning:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=typescript&logoColor=3178C6)
 ![Material UI](https://img.shields.io/badge/Material%20UI-555555?style=flat&logo=mui&logoColor=007FFF)
