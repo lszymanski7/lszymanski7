@@ -1,6 +1,6 @@
 <!-- ABOUT ME -->
 ## 👋🏻 Hello GitHub!
-I became fascinated with programming a few years ago. Since then, I have been trying to constantly develop in this field. I enjoy working with the JavaScript programming language, combined with the React library. However, this does not mean that I am limited to these technologies only. My intellectual curiosity makes me love learning something new and look for solutions to any problems.
+I became fascinated with programming a few years ago. Since then, I have been trying to constantly develop in this field. I enjoy working with the JavaScript programming language combined with the React library. However, this does not mean that I am limited to these technologies only. My intellectual curiosity makes me love learning something new and look for solutions to any problems.
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I am also keen on astronomy, computer games and music.
 
