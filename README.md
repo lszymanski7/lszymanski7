@@ -24,7 +24,7 @@ In my projects, I mostly use the following programming languages and tools:
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-3B3B3B?style=flat&logo=testinglibrary&logoColor=E33332)
 ![Git](https://img.shields.io/badge/Git-3B3B3B?style=flat&logo=git&logoColor=F05032)
 ![Npm](https://img.shields.io/badge/Npm-3B3B3B?style=flat&logo=npm&logoColor=CB3837)
-![ESLint](https://img.shields.io/badge/ESLint-3B3B3B?style=flat&logo=eslint&logoColor=4B32C3)
+![ESLint](https://img.shields.io/badge/ESLint-3B3B3B?style=flat&logo=eslint&logoColor=8080F2)
 ![Prettier](https://img.shields.io/badge/Prettier-3B3B3B?style=flat&logo=prettier&logoColor=F7B93E)
 ![Firebase](https://img.shields.io/badge/Firebase-3B3B3B?style=flat&logo=firebase&logoColor=FFCA28)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3B3B3B?style=flat&logo=visual%20studio%20code&logoColor=007ACC)
