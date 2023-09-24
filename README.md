@@ -25,7 +25,7 @@ In my projects, I mostly use the following programming languages and tools:
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
 ![Npm](https://img.shields.io/badge/Npm-555555?style=flat&logo=npm&logoColor=CB3837)
 ![ESLint](https://img.shields.io/badge/ESLint-555555?style=flat&logo=eslint&logoColor=4B32C3)
-![Stylelint](https://img.shields.io/badge/Stylelint-555555?style=flat&logo=stylelint&logoColor=FFFFFF)
+![Stylelint](https://img.shields.io/badge/Stylelint-555555?style=flat&logo=stylelint&logoColor=000000)
 ![Prettier](https://img.shields.io/badge/Prettier-555555?style=flat&logo=prettier&logoColor=F7B93E)
 ![Firebase](https://img.shields.io/badge/Firebase-555555?style=flat&logo=firebase&logoColor=FFCA28)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-555555?style=flat&logo=visual%20studio%20code&logoColor=007ACC)
