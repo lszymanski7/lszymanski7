@@ -1,6 +1,6 @@
 <!-- ABOUT ME -->
 ## 👋🏻 Hello GitHub!
-I became fascinated with programming a few years ago. Since then, I have had contact with many technologies and tools that are commonly used by programmers in their everyday work. The experience I gained made it easier for me to decide on the direction of further professional development. I decided to focus mainly on web technologies. It is designing and creating web applications that gives me the most satisfaction. However, this doesn't mean that I'm limited to these technologies only. My intellectual curiosity makes me love learning something new, thus developing my skills and broadening my horizons.
+I became fascinated with programming a few years ago. Since then, I have had contact with many technologies and tools that are commonly used by programmers in their everyday work. The experience gained helped me decide on the direction of further professional development. I decided to focus mainly on web technologies. It is designing and creating web applications that gives me the most satisfaction. However, this doesn't mean that I'm limited to these technologies only. My intellectual curiosity makes me love learning something new, thus developing my skills and broadening my horizons.
 
 Interests are an important part of my life. In my spare time, I like traveling, doing sports and learning about new technologies. I'm also keen on astronomy, computer games and music.
 
