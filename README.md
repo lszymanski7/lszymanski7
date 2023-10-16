@@ -2,8 +2,9 @@
 ## 👋🏻 Hello GitHub!
 I became fascinated with programming a few years ago. Since then, I have had contact with many technologies and tools that are commonly used by programmers in their daily work. The experience gained helped me decide on the direction of further professional development. I decided to focus mainly on web technologies. However, this doesn't mean that I limit myself to only one field of programming. My intellectual curiosity makes me love learning something new, thus developing my skills and broadening my horizons.
 
-## 🚀 Interests
+<br/>
 
+## 🚀 Interests
 Interests are an important part of my life. I have a strong passion for expanding my knowledge of astronomy and staying up to date with the latest information about various technologies. In my free time, I enjoy staying active through sports and traveling, which helps me maintain both physical and mental well-being. These interests not only energize me for my professional pursuits but also reflect my dedication to continual growth.
 
 <br/>
