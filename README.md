@@ -4,6 +4,7 @@ I became fascinated with programming a few years ago. Since then, I have had con
 
 Interests are an important part of my life. I have a strong passion for expanding my knowledge of astronomy and staying up to date with the latest information about various technologies. In my free time, I enjoy staying active through sports and traveling, which helps me maintain both physical and mental well-being. These interests not only energize me for my professional pursuits but also reflect my dedication to continual growth.
 
+
 <br/>
 
 <!-- TECHNOLOGY STACK -->
