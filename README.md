@@ -16,7 +16,6 @@ Interests play an important role in my life, perfectly harmonizing with my chose
 <!-- TECHNOLOGY STACK -->
 ## 🛠️ Technology Stack
 In my projects, I mostly use the following programming languages and tools:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-555555?style=flat&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-555555?style=flat&logo=redux&logoColor=916EC9)
