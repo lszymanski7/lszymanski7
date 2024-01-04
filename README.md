@@ -10,6 +10,7 @@ I am currently looking for an internship/job as a Front-end Developer to gain va
 ✔ comfort in using foreign languages.
 
 Interests play an important role in my life, perfectly harmonizing with my chosen professional path. I actively follow the latest information in the fields of technology and astronomy. Additionally, during my free time, I engage in sports and travel, which not only helps me maintain good physical and mental condition but also provides energy for effective work.
+
 <br/>
 
 <!-- TECHNOLOGY STACK -->
