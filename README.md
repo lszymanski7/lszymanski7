@@ -2,7 +2,6 @@
 ## 👋🏻 Hello GitHub!
 I became fascinated with programming over a decade ago. Since then, I have been exposed to many technologies and tools that are widely used by developers. The experience I gained helped me choose the direction of further professional development. I decided to focus mainly on web technologies. Designing and creating web applications has become my passion, providing me not only with great satisfaction, but also with motivation to constantly improve and search for innovative solutions in this dynamically changing IT area.
 
-
 I am currently looking for an internship/job as a Front-end Developer to gain valuable professional experience and expand my knowledge of web technologies. In my daily work, I can offer: <br/>
 ✔ creating high-quality source code, <br/>
 ✔ ambitious pursuit of set goals, <br/>
